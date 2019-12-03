@@ -1,2 +1,10 @@
-primer archivo modificado por mi desde el terminal
+Primer archivo modificado por mí desde el terminal.
+Con esto, he refrescado los siguientes comandos:
+- git clone (url) para copiar el repositorio
+- touch archivo.txt para crear un archivo en local
+- git add archivo txt para marcar que es lo que se va a hacer en el commit
+- git commit y commitea lo que hayas marcado con el add ( 1,2,3 archivos ... los que hayas marcado con el add
+- git push sube todos los cambios a github
+- git pull para asegurarnos que estamos actualizados a la ultima version
+
 
